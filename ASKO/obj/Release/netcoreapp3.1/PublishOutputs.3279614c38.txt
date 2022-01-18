@@ -1,0 +1,11 @@
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.exe
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.dll
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.deps.json
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.runtimeconfig.json
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.pdb
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\System.Data.SqlClient.dll
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\runtimes\win-arm64\native\sni.dll
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\runtimes\win-x64\native\sni.dll
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\runtimes\win-x86\native\sni.dll
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

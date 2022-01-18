@@ -1,0 +1,17 @@
+C:\Users\gamze\source\repos\ASKO\ASKO\bin\Release\netcoreapp3.1\win-x64\ASKO.exe
+C:\Users\gamze\source\repos\ASKO\ASKO\bin\Release\netcoreapp3.1\win-x64\ASKO.deps.json
+C:\Users\gamze\source\repos\ASKO\ASKO\bin\Release\netcoreapp3.1\win-x64\ASKO.runtimeconfig.json
+C:\Users\gamze\source\repos\ASKO\ASKO\bin\Release\netcoreapp3.1\win-x64\ASKO.runtimeconfig.dev.json
+C:\Users\gamze\source\repos\ASKO\ASKO\bin\Release\netcoreapp3.1\win-x64\ASKO.dll
+C:\Users\gamze\source\repos\ASKO\ASKO\bin\Release\netcoreapp3.1\win-x64\ASKO.pdb
+C:\Users\gamze\source\repos\ASKO\ASKO\bin\Release\netcoreapp3.1\win-x64\System.Data.SqlClient.dll
+C:\Users\gamze\source\repos\ASKO\ASKO\bin\Release\netcoreapp3.1\win-x64\sni.dll
+C:\Users\gamze\source\repos\ASKO\ASKO\obj\Release\netcoreapp3.1\win-x64\ASKO.Form1.resources
+C:\Users\gamze\source\repos\ASKO\ASKO\obj\Release\netcoreapp3.1\win-x64\ASKO.csproj.GenerateResource.cache
+C:\Users\gamze\source\repos\ASKO\ASKO\obj\Release\netcoreapp3.1\win-x64\ASKO.AssemblyInfoInputs.cache
+C:\Users\gamze\source\repos\ASKO\ASKO\obj\Release\netcoreapp3.1\win-x64\ASKO.AssemblyInfo.cs
+C:\Users\gamze\source\repos\ASKO\ASKO\obj\Release\netcoreapp3.1\win-x64\ASKO.csproj.CoreCompileInputs.cache
+C:\Users\gamze\source\repos\ASKO\ASKO\obj\Release\netcoreapp3.1\win-x64\ASKO.csproj.CopyComplete
+C:\Users\gamze\source\repos\ASKO\ASKO\obj\Release\netcoreapp3.1\win-x64\ASKO.dll
+C:\Users\gamze\source\repos\ASKO\ASKO\obj\Release\netcoreapp3.1\win-x64\ASKO.pdb
+C:\Users\gamze\source\repos\ASKO\ASKO\obj\Release\netcoreapp3.1\win-x64\ASKO.genruntimeconfig.cache

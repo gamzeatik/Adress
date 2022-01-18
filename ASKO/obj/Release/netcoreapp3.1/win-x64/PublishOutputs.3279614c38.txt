@@ -1,0 +1,7 @@
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.exe
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.dll
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.deps.json
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.runtimeconfig.json
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\ASKO.pdb
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\System.Data.SqlClient.dll
+C:\Users\gamze\OneDrive\Masaüstü\--\Ödevler\sni.dll
